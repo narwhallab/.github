@@ -1,2 +1,2 @@
-# Narhwallab
+# Narwhallab
 DIY smart homes software
